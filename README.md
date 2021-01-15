@@ -8,6 +8,7 @@ npm install
 
 ### Compiles and run server
 ```
-host expected: 
+cp .env.local .env
+host frontend expected:  http://localhost:8080/
 npm run serve
 ```
