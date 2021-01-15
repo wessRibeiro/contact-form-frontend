@@ -279,7 +279,7 @@ export default {
     //valida se o arquivo tem menos de 500Kb
     validFileSize: function (file) {
       if (file.files[0].size > 500000) {
-        this.errors.push('O arquivo deve ser menor que 500kb.');
+        this.errors.push('O arquivo pode ter o tamanho de até 500kb.');
         file.value = null;
         return false;
       }
