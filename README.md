@@ -1,14 +1,14 @@
 ## Netshowme@0.1.0
 
-## Project setup 
+## Instalação 
 ```
 npm version: 6.14.8
 npm install
 ```
 
-### Compiles and run server
+### Rodando aplicação
 ```
 cp .env.local .env
-host frontend expected:  http://localhost:8080/
 npm run serve
+localhost esperado: http://localhost:8080/
 ```
