@@ -14,7 +14,6 @@ npm install
 
 ### Rodando o projeto
 ```
-cp .env.local .env
 npm run serve
 localhost esperado: http://localhost:8080/
 ```
