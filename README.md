@@ -3,12 +3,13 @@
 #### Ferramentas utilizadas
 | ferramenta | Versão |
 | ------ | ------ | 
+| NPM | 6.14.8 |
 | Vue.Js | 3 |
+| @vue/cli | 4.5.10 |
 
 
 ## Instalação 
 ```
-npm version: 6.14.8
 npm install
 ```
 
